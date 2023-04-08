@@ -1,4 +1,6 @@
-## Hi there 👋
+## Calm + Confidence
+
+![Calm + Confidence Banner](/banner.jpg)
 
 <!--
 
