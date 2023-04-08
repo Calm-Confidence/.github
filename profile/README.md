@@ -1,6 +1,6 @@
 ## Calm + Confidence
 
-![Calm + Confidence Banner](/banner.jpg)
+![Calm + Confidence Banner](/profile/banner.jpg)
 
 <!--
 
